@@ -1,0 +1,75 @@
+[INFO  2016-03-06T16:44:36,276 net.lightbody.bmp.proxy.Main] (main) Starting BrowserMob Proxy version 2.1.0-beta-4 
+[INFO  2016-03-06T16:44:36,323 org.eclipse.jetty.util.log] (main) jetty-7.x.y-SNAPSHOT 
+[INFO  2016-03-06T16:44:36,350 org.eclipse.jetty.util.log] (main) started o.e.j.s.ServletContextHandler{/,null} 
+[INFO  2016-03-06T16:44:36,809 org.eclipse.jetty.util.log] (main) Started SelectChannelConnector@0.0.0.0:9090 
+[INFO  2016-03-06T16:53:29,010 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8081 
+[INFO  2016-03-06T16:53:29,021 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy listening with TCP transport 
+[INFO  2016-03-06T16:53:29,073 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy started at address: /0:0:0:0:0:0:0:0:8081 
+[WARN  2016-03-06T16:53:29,892 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-0-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[INFO  2016-03-06T16:54:57,245 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Starting proxy at address: 0.0.0.0/0.0.0.0:8082 
+[INFO  2016-03-06T16:54:57,246 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Proxy listening with TCP transport 
+[INFO  2016-03-06T16:54:57,247 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Proxy started at address: /0:0:0:0:0:0:0:0:8082 
+[WARN  2016-03-06T16:54:57,905 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-1-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[INFO  2016-03-06T16:56:16,603 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8083 
+[INFO  2016-03-06T16:56:16,604 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy listening with TCP transport 
+[INFO  2016-03-06T16:56:16,604 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy started at address: /0:0:0:0:0:0:0:0:8083 
+[WARN  2016-03-06T16:56:17,301 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-2-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[INFO  2016-03-06T17:00:43,287 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-15) Starting proxy at address: 0.0.0.0/0.0.0.0:8084 
+[INFO  2016-03-06T17:00:43,288 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-15) Proxy listening with TCP transport 
+[INFO  2016-03-06T17:00:43,288 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-15) Proxy started at address: /0:0:0:0:0:0:0:0:8084 
+[WARN  2016-03-06T17:00:43,973 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-3-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[INFO  2016-03-07T09:08:54,426 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-19) Starting proxy at address: 0.0.0.0/0.0.0.0:8085 
+[INFO  2016-03-07T09:08:54,428 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-19) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:08:54,428 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-19) Proxy started at address: /0:0:0:0:0:0:0:0:8085 
+[WARN  2016-03-07T09:08:55,208 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-4-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[WARN  2016-03-07T09:08:56,690 net.lightbody.bmp.filters.ServerResponseCaptureFilter] (LittleProxy-4-ProxyToServerWorker-2) Cannot decode unsupported content encoding type identity 
+[WARN  2016-03-07T09:08:56,690 net.lightbody.bmp.filters.HarCaptureFilter] (LittleProxy-4-ProxyToServerWorker-2) Unable to decompress content with encoding: identity. Contents will be encoded as base64 binary data. 
+[WARN  2016-03-07T09:08:59,074 net.lightbody.bmp.filters.HarCaptureFilter] (LittleProxy-4-ProxyToServerWorker-0) No content type specified in response from http://localhost/fonts/fontawesome-webfont.woff2?v=4.3.0. Content will be treated as application/octet-stream 
+[INFO  2016-03-07T09:51:43,617 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Starting proxy at address: 0.0.0.0/0.0.0.0:8086 
+[INFO  2016-03-07T09:51:43,619 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:51:43,620 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy started at address: /0:0:0:0:0:0:0:0:8086 
+[INFO  2016-03-07T09:52:23,213 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Starting proxy at address: 0.0.0.0/0.0.0.0:8087 
+[INFO  2016-03-07T09:52:23,214 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:52:23,214 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy started at address: /0:0:0:0:0:0:0:0:8087 
+[INFO  2016-03-07T09:52:44,069 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Starting proxy at address: 0.0.0.0/0.0.0.0:8088 
+[INFO  2016-03-07T09:52:44,070 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:52:44,071 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy started at address: /0:0:0:0:0:0:0:0:8088 
+[INFO  2016-03-07T09:54:07,676 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-19) Starting proxy at address: 0.0.0.0/0.0.0.0:8089 
+[INFO  2016-03-07T09:54:07,677 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-19) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:54:07,678 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-19) Proxy started at address: /0:0:0:0:0:0:0:0:8089 
+[INFO  2016-03-07T09:54:49,098 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Starting proxy at address: 0.0.0.0/0.0.0.0:8090 
+[INFO  2016-03-07T09:54:49,099 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:54:49,100 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Proxy started at address: /0:0:0:0:0:0:0:0:8090 
+[INFO  2016-03-07T09:55:33,538 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Starting proxy at address: 0.0.0.0/0.0.0.0:8091 
+[INFO  2016-03-07T09:55:33,539 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:55:33,540 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-18) Proxy started at address: /0:0:0:0:0:0:0:0:8091 
+[INFO  2016-03-07T09:56:29,425 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8092 
+[INFO  2016-03-07T09:56:29,426 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:56:29,426 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy started at address: /0:0:0:0:0:0:0:0:8092 
+[INFO  2016-03-07T09:56:56,040 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8093 
+[INFO  2016-03-07T09:56:56,041 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:56:56,042 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-17) Proxy started at address: /0:0:0:0:0:0:0:0:8093 
+[INFO  2016-03-07T09:57:18,038 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Starting proxy at address: 0.0.0.0/0.0.0.0:8094 
+[INFO  2016-03-07T09:57:18,039 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy listening with TCP transport 
+[INFO  2016-03-07T09:57:18,040 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-16) Proxy started at address: /0:0:0:0:0:0:0:0:8094 
+[WARN  2016-03-07T09:57:18,777 net.lightbody.bmp.mitm.util.SslUtil] (LittleProxy-13-ClientToProxyWorker-0) Disabling upstream server certificate verification. This will allow attackers to intercept communications with upstream servers. 
+[WARN  2016-03-07T09:57:20,373 net.lightbody.bmp.filters.ServerResponseCaptureFilter] (LittleProxy-13-ProxyToServerWorker-6) Cannot decode unsupported content encoding type identity 
+[WARN  2016-03-07T09:57:20,374 net.lightbody.bmp.filters.HarCaptureFilter] (LittleProxy-13-ProxyToServerWorker-6) Unable to decompress content with encoding: identity. Contents will be encoded as base64 binary data. 
+[WARN  2016-03-07T09:57:22,630 net.lightbody.bmp.filters.HarCaptureFilter] (LittleProxy-13-ProxyToServerWorker-2) No content type specified in response from http://localhost/fonts/fontawesome-webfont.woff2?v=4.3.0. Content will be treated as application/octet-stream 
+[INFO  2016-03-07T10:04:42,707 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-15) Starting proxy at address: 0.0.0.0/0.0.0.0:8095 
+[INFO  2016-03-07T10:04:42,708 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-15) Proxy listening with TCP transport 
+[INFO  2016-03-07T10:04:42,708 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp17895370-15) Proxy started at address: /0:0:0:0:0:0:0:0:8095 
+[INFO  2016-03-07T10:11:41,637 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,638 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Closing all channels (non-graceful) 
+[INFO  2016-03-07T10:11:41,638 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,638 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,641 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,638 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Closing all channels (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,639 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
+[INFO  2016-03-07T10:11:41,638 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (LittleProxy-JVM-shutdown-hook) Shutting down proxy server immediately (non-graceful) 
